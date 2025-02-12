@@ -51,8 +51,8 @@ const App = () => {
 						<Route path="/question8" element={<Question8 />} />
 						<Route path="/question9" element={<Question9 />} />
 						<Route path="/question10" element={<Question10 />} />
-						<Route path="/question12" element={<Question12 />} />
 						<Route path="/question11" element={<Question11 />} />
+						<Route path="/question12" element={<Question12 />} />
 						<Route path="/question13" element={<Question13 />} />
 						<Route path="/question14" element={<Question14 />} />
 						<Route path="/question15" element={<Question15 />} />
