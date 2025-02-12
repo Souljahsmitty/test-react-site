@@ -75,7 +75,7 @@ const Question10 = () => {
 
             <div className="nav-buttons">
 				<Link to="/question9" className="nav-button">← Back to Question 9</Link>
-                <Link to="/question11" className="nav-button">Next Question →</Link>
+                <Link to="/question12" className="nav-button">Next Question →</Link>
                 <button onClick={handleReset} className="reset-button">❌ Quit & Restart</button>  {/* Reset Button */}
             </div>
         </div>
